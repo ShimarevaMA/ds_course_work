@@ -50,8 +50,8 @@
 
 ## ⚡ Установка и запуск  
 ```bash
-git clone https://github.com/Petr-I/final_ds_course_work.git
-cd final_ds_course_work
+git clone https://github.com/ShimarevaMA/ds_course_work.git
+cd ds_course_work
 pip install -r requirements.txt
 streamlit run app.py
 ```
