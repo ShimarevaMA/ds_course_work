@@ -49,6 +49,13 @@
 ---
 
 ## ⚡ Установка и запуск  
-1. Клонируйте репозиторий:  
 ```bash
-git clone https://github.com/DobryninIlya/final_ds_course-work.git
+git clone https://github.com/Petr-I/final_ds_course_work.git
+cd final_ds_course_work
+pip install -r requirements.txt
+streamlit run app.py
+```
+
+## Видео-демонстрация
+[Ссылка на видео](video/demo.mkv)
+<video src="video/demo.mp4" controls width="100%"></video>
